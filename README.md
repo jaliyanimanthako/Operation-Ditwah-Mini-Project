@@ -121,5 +121,17 @@ Cyclone Ditwah has devastated Sri Lanka. The Disaster Management Center (DMC) is
 
 ---
 
-**Author:** Jaliya
-**Course:** AI Engineer Essentials - Prompt Engineering
+## 🙏 Acknowledgments
+
+> "Great engineering is about using the right tool for the job."
+
+This project was developed as part of the **AI Engineer Essentials** curriculum at **Zuu Academy**.
+
+*   **Course Module:** Week 01 – Prompt Engineering Essentials
+*   **Assignment:** Mini Project 0 – Operation Ditwah
+*   **Special Thanks:** To the Zuu Academy team for the scenario design and datasets.
+
+---
+
+**Author:** Jaliya  
+**Course:** AI Engineer Essentials @ Zuu Academy
