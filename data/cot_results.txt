@@ -1,0 +1,302 @@
+================================================================================
+CHAIN-OF-THOUGHT REASONING RESULTS
+================================================================================
+
+--------------------------------------------------------------------------------
+PROBLEM 1
+--------------------------------------------------------------------------------
+SCENARIO A: THE KANDY LANDSLIDE
+Location: Hanthana Tea Factory
+Details: "We are trapped. The access road is blocked. My uncle is stuck in the line rooms below, climbing a tree as water rises (Immediate Life Threat). However, inside the factory, we have a diabetic patient who has collapsed and needs insulin (Immediate Health Threat). We also have 40 people hungry."
+
+
+────────────────────────────────────────
+TEMPERATURE 1 STRESS TEST (Problem 1)
+────────────────────────────────────────
+
+► Run 1:
+**Reasoning Steps:**
+
+1.  **Triage & Assessment:** Classify threats based on the "Hierarchy of Survival." Imminent physical death (drowning/flood) takes precedence over metabolic crisis (diabetes), which takes precedence over sustenance (hunger).
+2.  **Logistical Analysis:** Acknowledge the blocked access road as the primary constraint, necessitating alternative rescue methods (air support or specialized flood rescue teams) rather than standard ground ambulance.
+3.  **Resource Allocation:** Direct immediate communication efforts toward external rescue for the high-risk victims while assigning on-site personnel to stabilize the medical patient and manage the crowd.
+4.  **Action Planning:** Formulate a parallel response: Coordinate external rescue for the "Uncle," provide first aid/stabilization for the diabetic patient, and enforce rationing/calm for the 40 people.
+
+***
+
+**Answer:**
+
+**Identification of Threats**
+*   **Immediate Life Threat:** The uncle trapped in the line rooms climbing a tree (Risk: Drowning/Swept away by landslide or flood).
+*   **Immediate Health Threat:** The diabetic patient collapsed inside the factory (Risk: Diabetic Coma/Shock).
+*   **Other Critical Issues:** Access road blocked (isolation), 40 people hungry (resource scarcity), potential structural instability of the factory due to landslide risk.
+
+**Damage Control Plan**
+
+1.  **Communication (Priority 1):** Immediately contact Disaster Management Centre (DMC) and Military Liaison. Declare a "Code Red." Report the blocked road and request **Air Rescue (Helicopter)** or **Amphibious Task Force** due to terrain inaccessibility.
+2.  **Rescue Operation (The Uncle):**
+    *   Provide specific GPS coordinates of the line rooms to the rescue team.
+    *   If phone contact is possible, instruct the uncle to use a belt or cloth to lash himself to the tree to prevent fatigue-induced falling.
+3.  **Medical Stabilization (The Diabetic):**
+    *   Place patient in the recovery position to maintain airway.
+    *   *If conscious:* Administer sugar/glucose immediately (assuming hypoglycemia is more rapidly fatal and likely in trapped scenarios than hyperglycemia).
+    *   *If unconscious:* Do not feed. Prepare for immediate Medevac alongside the Uncle.
+4.  **Crowd Management & Welfare (The 40 People):**
+    *   Appoint a calm leader to maintain order.
+    *   Inventory all available food/water in the factory canteen; initiate strict rationing immediately.
+    *   Move everyone to the most structurally sound, elevated part of the factory away from the slope edge.
+5.  **Preparation for Extraction:**
+    *   Clear a Landing Zone (LZ) near the factory for a helicopter or high-visibility point for rescue boats.
+    *   Create a signal (fire/bright cloth) to guide incoming teams.
+
+
+► Run 2:
+Here is the reasoning and the action plan.
+
+### Reasoning Steps
+
+1.  **Triage Assessment:** Prioritize the threats based on the "Life over Limb" principle. The uncle facing rising water in a landslide zone is in a dynamic, instantly fatal situation (Category: Red - Immediate Life Threat). The diabetic patient is in critical condition but stable relative to the drowning risk (Category: Red - Immediate Health Threat). The 40 hungry people are a welfare issue (Category: Green - Non-critical).
+2.  **Constraint Analysis:** The blocked access road renders standard ground vehicles useless. This necessitates requesting specialized Search and Rescue (SAR) or air support (helicopter) for evacuation.
+3.  **Communication Strategy:** Immediate coordination with the Disaster Management Center (DMC) and Air Force is required. Simultaneously, instructions must be relayed to the factory to stabilize the patient and maintain order.
+
+***
+
+### Answer:
+
+**Identified Threats:**
+*   **Immediate Life Threat:** The uncle trapped in the line rooms, climbing a tree to escape rising water/landslide debris.
+*   **Immediate Health Threat:** The diabetic patient inside the factory who has collapsed (potential diabetic ketoacidosis or severe hypoglycemia).
+*   **Other Critical Issues:** Blocked access road (no exit), 40 civilians without food supplies, potential structural instability of the factory due to the landslide.
+
+**Damage Control Plan:**
+
+1.  **Alert Authorities (Priority 1):** Immediately contact the Disaster Management Center and Sri Lanka Air Force. Request urgent air rescue (helicopter) due to blocked roads and the critical status of the "Uncle" in the flood zone.
+2.  **Rescue Coordination (The Uncle):** Direct the SAR team/Air Force to the line rooms first. This is the most volatile situation.
+3.  **Medical Stabilization (The Patient):**
+    *   Instruct those in the factory to place the diabetic patient in the recovery position to maintain an open airway.
+    *   If a glucometer is available, check blood sugar. If unavailable and the patient is conscious enough to swallow, administer a small amount of sugar (standard protocol if unsure between hypo/hyperglycemia). If unconscious, **do not** feed; wait for medevac.
+4.  **Logistics & Safety (The 40 People):**
+    *   Instruct the group to stay inside the factory (if structurally sound) and away from the landslide slope.
+    *   Designate a team to clear a flat area outside for a potential helicopter landing zone or winch point.
+    *   Ration available food/water immediately; reassure them that help is en route to prevent panic.
+
+
+► Run 3:
+**Reasoning Steps:**
+
+1.  **Triage Threats:** Assess the hierarchy of needs. The uncle facing rising water is in an active, escalating environmental hazard (drowning/swept away) and is Priority 1. The collapsed diabetic patient is in a stable shelter but in critical medical condition, making them Priority 2. The 40 hungry people and blocked road are logistical/welfare issues, ranked Priority 3.
+2.  **Analyze Constraints:** The blocked road rules out standard ambulance or vehicle access. External help (Air Force or specialized Disaster Management teams) is required immediately.
+3.  **Formulate Action Plan:**
+    *   **External:** Contact authorities for air/boat rescue and medical supply drop.
+    *   **Internal:** Stabilize the patient within limits, secure the crowd, and attempt remote communication with the trapped uncle.
+
+***
+
+**Answer:**
+
+**Identification of Threats & Issues:**
+*   **Immediate Life Threat:** The uncle trapped in line rooms, climbing a tree to escape rising water (Imminent risk of drowning or being swept away).
+*   **Immediate Health Threat:** The diabetic patient inside the factory who has collapsed (Risk of diabetic coma/death).
+*   **Other Critical Issues:** Blocked access road (Logistical failure), 40 hungry people (Risk of panic/riot), trapped status (Psychological stress).
+
+**Damage Control Plan:**
+
+1.  **Communication (Immediate):**
+    *   Contact Disaster Management Centre (DMC) and Air Force immediately. Provide GPS coordinates of the factory and the specific location of the line rooms.
+    *   Report the situation as "Critical - Multi-casualty potential" to expedite air support.
+
+2.  **Rescue Operation (Priority 1 - Uncle):**
+    *   Direct the arriving Air Force helicopter or boat team to the line rooms first for extraction.
+    *   If phone contact is possible, instruct the uncle to secure himself to the tree using a belt or clothing to prevent falling due to fatigue.
+
+3.  **Medical Response (Priority 2 - Diabetic Patient):**
+    *   Request the rescue team bring insulin or prepare for immediate medical evacuation of the patient alongside the uncle.
+    *   **First Aid:** Place the collapsed patient in the recovery position to maintain airway. Do *not* force feed sugar/fluids while unconscious (risk of choking). Monitor breathing.
+
+4.  **Crowd & Resource Management (Priority 3):**
+    *   **Rationing:** Conduct an immediate inventory of any water/tea/snacks in the factory canteen. Ration strictly among the 40 people.
+    *   **Leadership:** Appoint a calm team leader to keep the group away from the factory edge and prepare a landing zone/signal area for the helicopter.
+    *   **Information:** Inform the group that help has been contacted to prevent panic-induced attempts to cross the blocked road.
+
+────────────────────────────────────────
+TEMPERATURE 0 TEST (Problem 1)
+────────────────────────────────────────
+
+► Deterministic Run:
+**Reasoning Steps:**
+
+1.  **Triage Threats:** Compare the urgency of the drowning risk (Uncle) against the medical emergency (Diabetic) and the welfare issue (Hunger). The risk of drowning/being swept away is the most volatile and immediate fatal threat. The diabetic coma is the second most critical. Hunger is a delayed threat.
+2.  **Analyze Access:** Acknowledge the blocked road. Standard ground vehicles cannot respond. Response requires air support (helicopter) or specialized foot/boat Search and Rescue (SAR) teams.
+3.  **Formulate Sequence:** Prioritize the extraction of the uncle (highest volatility), simultaneous medical intervention for the diabetic (high urgency), followed by supply drops/evacuation for the group (logistical).
+4.  **Establish Communication:** Maintain contact to guide rescuers to the specific "line room" location and provide remote first aid instructions.
+
+***
+
+**Answer:**
+
+**Identification of Threats**
+*   **Immediate Life Threat:** The uncle trapped in the line rooms, climbing a tree to escape rising water (High risk of drowning or being swept away).
+*   **Immediate Health Threat:** The collapsed diabetic patient inside the factory requiring insulin (Risk of diabetic coma/death).
+*   **Other Critical Issues:** 40 people trapped and hungry; access road blocked (preventing standard vehicle rescue); potential structural instability of the factory due to landslide conditions.
+
+**Damage Control Plan**
+
+1.  **Activate Air Support / Specialized SAR:** Immediately request Air Force assistance or Swift Water Rescue teams. Ground vehicles are useless due to the blocked road.
+2.  **Priority 1 - Rescue the Uncle:** Direct the rescue team to the "line rooms" below the factory first. This is the most volatile situation.
+3.  **Priority 2 - Medical Evacuation:** Direct the rescue team to the factory building next. They must bring insulin and glucose. The patient requires immediate stabilization or evacuation to a hospital.
+4.  **Remote Medical Instruction:** While help is en route, instruct the caller to place the diabetic patient in the recovery position to prevent choking and keep them warm. Do not force feed if unconscious.
+5.  **Priority 3 - Sustainment & Evacuation:** Once the two critical individuals are secured, assess the stability of the factory.
+    *   If unstable: Evacuate the 40 people immediately via air or safe foot route.
+    *   If stable but road clearing is delayed: Air-drop food and water supplies to the 40 people while heavy machinery clears the access road.
+
+--------------------------------------------------------------------------------
+PROBLEM 2
+--------------------------------------------------------------------------------
+SCENARIO B: THE GAMPAHA HOSPITAL
+Location: Gampaha District General Hospital
+Details: "Power has failed in the ICU. We have 3 patients on ventilators with battery backup for 2 hours (Critical). Meanwhile, flood water is entering the ground floor ward where 50 elderly patients are bedridden (High Risk). We have one generator truck arriving in 30 mins, but it can only power one section."
+
+
+────────────────────────────────────────
+TEMPERATURE 1 STRESS TEST (Problem 2)
+────────────────────────────────────────
+
+► Run 1:
+**Reasoning Steps:**
+1.  **Time Analysis:** The ICU has a 2-hour safety buffer (batteries). The Ground Floor has zero safety buffer (water is currently entering).
+2.  **Resource Utility:** The generator solves the ICU problem (power) but does not solve the Ground Floor problem (floodwater). The Ground Floor requires physical manpower for evacuation, not electricity (which is a hazard in floods).
+3.  **Strategic Alignment:** Arrival of the generator in 30 minutes fits safely within the ICU's 2-hour window. Therefore, the generator must be reserved for the ICU to prevent certain death, while human resources must be immediately directed to the Ground Floor for vertical evacuation.
+
+Answer:
+
+**Immediate Life Threat:**
+Respiratory failure/death for 3 ICU patients if ventilator batteries deplete before power restoration.
+
+**Immediate Health Threat:**
+Drowning, hypothermia, and water-borne infection for 50 bedridden elderly patients due to rising floodwaters.
+
+**Other Critical Issues:**
+*   Electrical shock hazard on the Ground Floor due to water contact with outlets.
+*   Logistical bottleneck moving 50 bedridden patients without elevators (if power is out).
+
+**Plan:**
+1.  **Immediate Vertical Evacuation (Ground Floor):** Mobilize all available able-bodied staff and porters to the Ground Floor immediately to manually carry the 50 elderly patients to upper levels.
+2.  **Secure ICU Power:** Direct the incoming generator truck (arriving in 30 mins) to connect exclusively to the ICU. The 30-minute arrival time is well within the 2-hour battery life.
+3.  **Electrical Safety:** Cut main grid power to the Ground Floor immediately to prevent electrocution during evacuation.
+4.  **Monitoring:** Assign one dedicated nurse to monitor ICU ventilator battery levels continuously until the generator takes over.
+
+
+► Run 2:
+**Reasoning Steps:**
+
+1.  **Time Analysis:** Analyze time buffers. ICU has a 2-hour safety margin (batteries) vs. a 30-minute arrival time for the generator. The Ground Floor has zero time buffer; water is actively entering.
+2.  **Resource Capability:** The generator resolves the electrical failure (ICU needs) but cannot resolve flooding (Ground Floor needs). The Ground Floor requires physical evacuation (manpower), not just electricity.
+3.  **Prioritization:** Prioritize the generator for the ICU because ventilator patients are difficult to move and require guaranteed power before batteries drain. Prioritize manual labor for the Ground Floor to move patients vertically to safety immediately.
+4.  **Logistics:** Coordinate generator connection to ICU circuit immediately upon arrival (well within the 2-hour battery window).
+
+***
+
+**Answer:**
+
+**Immediate Life Threat:**
+*   **Active:** Rising floodwaters threatening drowning or electrocution for the 50 bedridden elderly patients on the ground floor.
+*   **Pending (Delayed):** Respiratory arrest for 3 ICU patients if ventilator batteries deplete before power is restored (currently stable for 2 hours).
+
+**Immediate Health Threat:**
+*   Hypothermia, waterborne infection, and trauma during transport for the elderly patients.
+*   Medical deterioration of ICU patients due to unstable environment.
+
+**Other Critical Issues:**
+*   **Access:** Risk of the generator truck being blocked by the same floodwaters affecting the hospital.
+*   **Electrical Safety:** Risk of short circuits or electrocution on the ground floor as water rises.
+*   **Manpower:** High demand for staff to carry 50 non-ambulatory patients up stairs/elevators.
+
+**Damage Control Plan:**
+
+1.  **Generator Allocation (ICU Priority):**
+    *   Direct the incoming generator truck to power the **ICU exclusively**.
+    *   *Rationale:* Ventilator patients are the most clinically critical and hardest to evacuate. The batteries buy us 2 hours; the generator arrives in 30 minutes, leaving a safe 90-minute buffer to connect power.
+
+2.  **Immediate Evacuation (Ground Floor):**
+    *   Do **not** wait for power. Immediately mobilize all available staff, security, and bystanders to perform a **vertical evacuation** of the 50 elderly patients to upper floors.
+    *   Cut main power to the ground floor immediately to prevent electrocution.
+
+3.  **Contingency Management:**
+    *   Assign one nurse to manually monitor ICU ventilator battery levels constantly. If the generator is delayed past 90 minutes, prepare Ambu-bags for manual ventilation.
+    *   Request external support (Navy/Police) for physical assistance with moving bedridden patients.
+
+
+► Run 3:
+**Reasoning Steps:**
+
+1.  **Analyze Timelines:** The ICU has a 2-hour safety buffer (batteries) vs. a 30-minute wait for the generator. The Ground Floor has zero buffer (water entering immediately).
+2.  **Analyze Needs:** The ICU requires **electricity** to prevent death. The Ground Floor requires **physical evacuation** to prevent harm; electricity there poses an electrocution risk due to flooding.
+3.  **Allocate Resources:** The generator is an electrical solution, so it must be assigned to the ICU (the only section that *needs* power to sustain life).
+4.  **Prioritize Action:** Immediate mobilization of staff is required to vertically evacuate the ground floor elderly while monitoring ICU batteries until the generator arrives.
+
+***
+
+**Answer:**
+
+**Immediate Life Threat:**
+*   **3 ICU Patients:** They are completely dependent on mechanical ventilation. While currently on battery, any failure or delay beyond 2 hours results in rapid death.
+
+**Immediate Health Threat:**
+*   **50 Bedridden Elderly Patients:** Immediate exposure to contaminated flood water, risk of hypothermia, infection, drowning, and potential electrocution if power is not cut to that floor.
+
+**Other Critical Issues:**
+*   **Logistics:** Evacuating 50 bedridden patients vertically without elevators (likely disabled for safety) requires immense manpower.
+*   **Generator Limitations:** The single truck cannot power the whole facility, requiring a hard triage decision on power allocation.
+
+**Plan:**
+
+1.  **Power Allocation (ICU Priority):**
+    *   Instruct the generator team to connect **only to the ICU** upon arrival (ETA 30 mins). The ICU cannot be safely evacuated quickly, and they require power to survive past the 2-hour battery limit.
+    *   Assign one nurse to strictly monitor ventilator battery levels until the generator takes over.
+
+2.  **Ground Floor Actions (Evacuation Priority):**
+    *   **Cut main power** to the Ground Floor immediately to prevent electrocution.
+    *   Mobilize all available non-ICU staff, porters, and bystanders to perform **vertical evacuation** of the 50 elderly patients to upper floors immediately. Do not wait for the generator.
+    *   Prioritize moving the most fragile elderly patients first.
+
+3.  **External Communication:**
+    *   Contact Fire Brigade/Military immediately for manpower assistance with the evacuation of the 50 bedridden patients.
+
+────────────────────────────────────────
+TEMPERATURE 0 TEST (Problem 2)
+────────────────────────────────────────
+
+► Deterministic Run:
+**Reasoning Steps:**
+
+1.  **Analyze Time Constraints:** The ICU has a 2-hour battery buffer. The generator arrives in 30 minutes. Therefore, the ICU is stable for the immediate future.
+2.  **Analyze Immediate Hazard:** Flood water is entering the ground floor *now*. This poses an immediate risk of drowning, hypothermia, and electrocution for 50 bedridden patients.
+3.  **Evaluate Resource Allocation:** Powering a flooded ground floor is dangerous (electrocution risk) and futile. The generator is essential for the ICU to sustain life support after batteries drain.
+4.  **Determine Strategy:** Manpower must focus on evacuating the ground floor immediately. The technical resource (generator) must be reserved for the ICU.
+
+***
+
+**Answer:**
+
+**Immediate Life Threat:**
+*   **Drowning/Exposure:** Rising floodwaters threatening 50 bedridden elderly patients on the ground floor.
+*   **Electrocution:** Risk to patients and staff if power is restored to the flooded ground floor.
+
+**Immediate Health Threat:**
+*   **Ventilator Failure:** Impending death of 3 ICU patients if power is not restored before the 2-hour battery backup depletes.
+
+**Other Critical Issues:**
+*   **Logistics:** Difficulty of vertically evacuating 50 non-ambulatory patients without elevators (assuming power outage affects elevators).
+*   **Staffing:** Splitting staff between ICU monitoring and mass evacuation efforts.
+
+**Plan:**
+
+1.  **Immediate Evacuation (Ground Floor):** Mobilize all available staff, porters, and bystanders to manually carry the 50 elderly patients to upper floors immediately. Do not wait for the generator.
+2.  **Power Allocation (ICU):** Direct the incoming generator truck (arriving in 30 mins) to power the **ICU exclusively**. Do not attempt to power the ground floor due to water hazards.
+3.  **Safety Isolation:** Ensure the main electrical breaker for the ground floor is switched **OFF** to prevent electrocution.
+4.  **Monitoring:** Designate one ICU nurse to strictly monitor ventilator battery levels until the generator is connected.
+5.  **External Aid:** Call emergency services (Fire/Military) specifically requesting manpower for lifting patients.
+
+================================================================================
+END OF RESULTS
+================================================================================

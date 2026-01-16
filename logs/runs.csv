@@ -1,0 +1,2 @@
+timestamp,provider,model,technique,latency_ms,input_tokens_est,context_tokens_est,total_est,prompt_tokens_actual,completion_tokens_actual,total_tokens_actual,retry_count,backoff_ms_total,overflow_handled,cost_estimate_usd,notes
+2026-01-07T22:14:54.612237,openai,gemini-3-pro-preview,tot,46680,76,0,79,76,,76,0,0,False,N/A,
